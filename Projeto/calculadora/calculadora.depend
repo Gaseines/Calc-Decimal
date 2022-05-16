@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651876101 source:c:\users\gabriel\desktop\projeto\calculadora\main.cpp
+	<iostream>
+	<math.h>
+
